@@ -1,0 +1,111 @@
+leftnav:
+- identifier: 0ddff0db-8cb2-4de0-abf2-6cab1339d9c5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 54f18d83-b353-4d38-b091-e837bcb56db6
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 207a476f-8ae5-4d17-a8f5-81b86a493550
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: da7786f7-095b-4852-b7c8-96eecce41d59
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  name: Questions for Class Discussion
+  pageRef: /pages/questions-for-class-discussion
+  weight: 50
+- identifier: 72b66913-30e0-4168-aa2d-bc9255b693b1
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: afbaeccd-3ab6-4e72-b73d-ecedaed7cd81
+  name: 'Appendix I: Hints On The Readings'
+  pageRef: /pages/appendix-i-hints-on-the-readings
+  parent: da7786f7-095b-4852-b7c8-96eecce41d59
+  weight: 10
+- identifier: edfd85aa-f134-4ce3-a3d6-27b7907f2792
+  name: Recommended Readings
+  pageRef: /pages/recommended-readings
+  parent: da7786f7-095b-4852-b7c8-96eecce41d59
+  weight: 20
+- identifier: e363db51-9a1d-44f9-800d-dde292199433
+  name: Week 1 Discussion Questions
+  pageRef: /pages/week-1
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 10
+- identifier: 857505e0-130c-4edd-9161-d46aacfd0807
+  name: Week 2 Discussion Questions
+  pageRef: /pages/week-2
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 20
+- identifier: f8a0aa49-2cc9-4ad4-a4c5-c0920f3ed415
+  name: Week 3 Discussion Questions
+  pageRef: /pages/week-3
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 30
+- identifier: 439849ea-e4aa-46a3-9c96-54cdbcd86bb2
+  name: Week 4 Discussion Questions
+  pageRef: /pages/week-4
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 40
+- identifier: 14cbe989-631c-487b-a8cf-8ecf38a91360
+  name: Week 5 Discussion Questions
+  pageRef: /pages/week-5
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 50
+- identifier: 5c071a0e-d411-4f17-a293-dce6c296416d
+  name: Week 6 Discussion Questions
+  pageRef: /pages/week-6
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 60
+- identifier: bbe1e50e-af3a-4dee-a1e6-23040881ba72
+  name: Week 7 Discussion Questions
+  pageRef: /pages/week-7
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 70
+- identifier: 73a043f7-06ae-4ae6-92fb-9ff0dfa99845
+  name: Week 8 Discussion Questions
+  pageRef: /pages/week-8
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 80
+- identifier: 0f40be52-9c39-43f3-9140-deb1b33ca4fa
+  name: Week 9 Discussion Questions
+  pageRef: /pages/week-9
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 90
+- identifier: ffed7d50-fcca-496f-9988-69963d042331
+  name: Week 10 Discussion Questions
+  pageRef: /pages/week-10
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 100
+- identifier: 7e3d929b-6333-4d04-959f-61adf400f250
+  name: Week 11 Discussion Questions
+  pageRef: /pages/week-11
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 110
+- identifier: 2e6f6bc2-ae76-4050-a77b-0004a771e4a6
+  name: Week 12 Discussion Questions
+  pageRef: /pages/week-12
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 120
+- identifier: b9c5317d-c584-412e-ab06-707fce4d2e41
+  name: Week 13 Discussion Questions
+  pageRef: /pages/week-13
+  parent: 0ab922db-d13d-4238-b9d7-d38088c9e02d
+  weight: 130
+- identifier: 96c9514f-3240-4587-9c7f-9b32779fd180
+  name: Response Paper Topics
+  pageRef: /pages/week-2-paper-topic
+  parent: 72b66913-30e0-4168-aa2d-bc9255b693b1
+  weight: 10
+- identifier: 1009919c-86f0-4755-9fef-8f4bc56b801d
+  name: 'Appendix II: Stylistic and Substantive Hints for Writing Papers (a.k.a.,
+    Pet Peeves)'
+  pageRef: /pages/appendix-ii-stylist-and-substantive-hints-for-writing-papers-aka-pet-peeves
+  parent: 72b66913-30e0-4168-aa2d-bc9255b693b1
+  weight: 20
