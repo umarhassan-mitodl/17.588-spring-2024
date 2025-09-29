@@ -33,7 +33,7 @@ Instructor permission is required.
 
 ### Requirements Satisfied
 
-This course can be applied toward a {{% resource_link "30007d0d-b017-4338-9370-77661660a2c9" "Doctorate in Political Science" %}}, but it is not required.
+This course can be applied toward a [Doctorate in Political Science](https://polisci.mit.edu/graduate/phd), but it is not required.
 
 ### Offered
 

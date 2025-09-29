@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains general information about the course.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Syllabus
 uid: 0ddff0db-8cb2-4de0-abf2-6cab1339d9c5
 ---
